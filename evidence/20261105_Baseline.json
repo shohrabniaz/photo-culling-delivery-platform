@@ -1,19 +1,25 @@
 {
   "title": "Photo culling & delivery platform",
-  "seq": 97,
-  "kind": "app",
+  "slug": "photo-culling-delivery-platform",
+  "kind": "product",
   "mode": "SyntheticBaseline",
-  "generatedUtc": "2026-11-04T17:32:20.603542+00:00",
+  "generatedUtc": "2026-11-04T17:57:02.067639+00:00",
   "author": "Md Shohrab Hossen Niaz",
-  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "publicReadiness": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  },
   "artefacts": [
     "requirements brief",
     "MVP scope",
-    "security baseline checklist"
+    "security baseline"
   ],
   "scoreModel": {
-    "baselineMaturity": 42,
-    "targetMaturity": 70,
-    "unit": "0-100 design-coverage index"
+    "baseline": 42,
+    "target": 75,
+    "unit": "design-coverage index"
   }
 }
