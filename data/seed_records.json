@@ -1,30 +1,38 @@
 [
   {
-    "title": "Photo culling & delivery platform - intake request",
+    "title": "Photo culling & delivery platform \u2014 new photo culling delivery platform request",
     "status": "open",
     "meta": {
+      "source": "web",
       "priority": "high"
     }
   },
   {
-    "title": "Schedule follow-up",
-    "status": "open",
+    "title": "Review photo culling delivery platform backlog",
+    "status": "in_progress",
     "meta": {
       "priority": "medium"
     }
   },
   {
-    "title": "Close completed onboarding",
+    "title": "Customer follow-up for photo culling delivery platform",
+    "status": "blocked",
+    "meta": {
+      "priority": "high"
+    }
+  },
+  {
+    "title": "Completed photo culling delivery platform onboarding",
     "status": "done",
     "meta": {
       "priority": "low"
     }
   },
   {
-    "title": "Waiting on customer evidence",
-    "status": "blocked",
+    "title": "QA check \u2014 photo-culling-delivery-platform",
+    "status": "open",
     "meta": {
-      "priority": "high"
+      "priority": "medium"
     }
   }
 ]
